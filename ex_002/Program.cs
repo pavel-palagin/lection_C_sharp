@@ -3,5 +3,6 @@ string username = Console.ReadLine();
 Console.Write("Привет, ");
 Console.Write(username);
 
-// .WriteLine - переносит на следующую строку
-// .Write - остается в текущей строке
+// .WriteLine() - переносит на следующую строку
+// .Write() - остается в текущей строке
+// .ReadLine() - считывает строку из терминала
